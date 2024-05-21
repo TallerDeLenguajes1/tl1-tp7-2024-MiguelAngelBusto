@@ -1,0 +1,15 @@
+C:\Users\Alumno\Documents\Nueva carpeta\tl1-tp7-2024-MiguelAngelBusto\bin\Debug\net8.0\tl1-tp7-2024-MiguelAngelBusto.exe
+C:\Users\Alumno\Documents\Nueva carpeta\tl1-tp7-2024-MiguelAngelBusto\bin\Debug\net8.0\tl1-tp7-2024-MiguelAngelBusto.deps.json
+C:\Users\Alumno\Documents\Nueva carpeta\tl1-tp7-2024-MiguelAngelBusto\bin\Debug\net8.0\tl1-tp7-2024-MiguelAngelBusto.runtimeconfig.json
+C:\Users\Alumno\Documents\Nueva carpeta\tl1-tp7-2024-MiguelAngelBusto\bin\Debug\net8.0\tl1-tp7-2024-MiguelAngelBusto.dll
+C:\Users\Alumno\Documents\Nueva carpeta\tl1-tp7-2024-MiguelAngelBusto\bin\Debug\net8.0\tl1-tp7-2024-MiguelAngelBusto.pdb
+C:\Users\Alumno\Documents\Nueva carpeta\tl1-tp7-2024-MiguelAngelBusto\obj\Debug\net8.0\tl1-tp7-2024-MiguelAngelBusto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Documents\Nueva carpeta\tl1-tp7-2024-MiguelAngelBusto\obj\Debug\net8.0\tl1-tp7-2024-MiguelAngelBusto.AssemblyInfoInputs.cache
+C:\Users\Alumno\Documents\Nueva carpeta\tl1-tp7-2024-MiguelAngelBusto\obj\Debug\net8.0\tl1-tp7-2024-MiguelAngelBusto.AssemblyInfo.cs
+C:\Users\Alumno\Documents\Nueva carpeta\tl1-tp7-2024-MiguelAngelBusto\obj\Debug\net8.0\tl1-tp7-2024-MiguelAngelBusto.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Documents\Nueva carpeta\tl1-tp7-2024-MiguelAngelBusto\obj\Debug\net8.0\tl1-tp7-2024-MiguelAngelBusto.sourcelink.json
+C:\Users\Alumno\Documents\Nueva carpeta\tl1-tp7-2024-MiguelAngelBusto\obj\Debug\net8.0\tl1-tp7-2024-MiguelAngelBusto.dll
+C:\Users\Alumno\Documents\Nueva carpeta\tl1-tp7-2024-MiguelAngelBusto\obj\Debug\net8.0\refint\tl1-tp7-2024-MiguelAngelBusto.dll
+C:\Users\Alumno\Documents\Nueva carpeta\tl1-tp7-2024-MiguelAngelBusto\obj\Debug\net8.0\tl1-tp7-2024-MiguelAngelBusto.pdb
+C:\Users\Alumno\Documents\Nueva carpeta\tl1-tp7-2024-MiguelAngelBusto\obj\Debug\net8.0\tl1-tp7-2024-MiguelAngelBusto.genruntimeconfig.cache
+C:\Users\Alumno\Documents\Nueva carpeta\tl1-tp7-2024-MiguelAngelBusto\obj\Debug\net8.0\ref\tl1-tp7-2024-MiguelAngelBusto.dll
